@@ -1,0 +1,2 @@
+body{background-color:#000;height:100vh;justify-content:center}.board,body{align-items:center;display:flex}.board{flex-direction:column}.b{font-size:large;font-weight:700;vertical-align:middle;width:60px}.b,.replay{height:60px}.replay{background-color:#000;border:0;color:#09ff46;cursor:pointer;font-size:35px;margin-top:20px;outline:0;width:180px}.card,.replay{border-radius:10px}.card{align-items:center;background-color:#09ff46;display:flex;height:500px;justify-content:center;margin-top:20%;width:400px}
+/*# sourceMappingURL=main.70cf4afd.css.map*/
