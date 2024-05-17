@@ -1,0 +1,46 @@
+
+
+body{
+    background-color: black;
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh;
+}
+
+.board{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.b{
+    height: 60px;
+    width: 60px;
+    vertical-align: middle;
+    font-size: large;
+    font-weight: bold;
+}
+.replay{
+    height:60px;
+    width:180px;
+    margin-top: 20px;
+    background-color: black;
+    color:  rgb(9, 255, 70);
+    font-size: 35px;
+    border: 0;
+    outline: 0;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.card{
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    margin-top: 20%;
+    height: 500px;
+    width: 400px;
+    border-radius: 10px;
+    background-color: rgb(9, 255, 70);
+    
+}
